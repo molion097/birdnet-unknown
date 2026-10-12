@@ -1,0 +1,8 @@
+# Versions used to produce the results in the paper (Python 3.11). Other versions of numpy, scipy or
+# scikit-learn can change the reported values in the third decimal.
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+threadpoolctl==3.7.0
+openpyxl==3.1.5
+matplotlib==3.11.2
