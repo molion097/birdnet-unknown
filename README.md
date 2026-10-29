@@ -1,8 +1,7 @@
 # Naming the birds BirdNET doesn't know
 
 Code and data to reproduce the main results of the paper "Naming the birds BirdNET doesn't know: a few-shot
-classifier and confidence-based routing for tropical species" by Molion Surya Pradana and Chuan-Kai Yang
-(submitted to the Journal of Ornithology).
+classifier and confidence-based routing for tropical species" by Molion Surya Pradana and Chuan-Kai Yang.
 
 BirdNET has a fixed label set, so many birds in species-rich tropical regions are outside it, and BirdNET
 still names a known species for every recording. We train a second classifier on a few local recordings
