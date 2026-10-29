@@ -50,8 +50,6 @@ Scripts locate the data relative to their own folder, so they can be run from an
 | Section 4.3, method of Jana et al. (2026) | `python scripts/compare_jana_method.py` |
 | Name-reconciliation tables in `data/name_reconciliation/` | `python scripts/build_name_reconciliation_tables.py` |
 
-<!-- TODO before publishing: update this table to the final version of the paper. -->
-
 ## Getting the audio
 
 The recordings are not redistributed, because each one carries its own Creative Commons licence and some
